@@ -9,9 +9,9 @@
 | Dataset ID | `927809` |
 | Location | Ontario |
 | Category | Restaurants |
-| Full dataset size | 204 records |
-| Free sample size | 37 records (18.14%) |
-| Last export | 2026-03-31T14:15:44.676354+00:00 |
+| Full dataset size | 372 records |
+| Free sample size | 37 records (9.95%) |
+| Last export | 2026-04-14T14:44:14.922006+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-ontario-california-us-sample-927809/releases/download/sample-latest/beamstation_927809_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
