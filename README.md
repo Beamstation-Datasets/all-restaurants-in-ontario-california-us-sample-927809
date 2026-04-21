@@ -1,6 +1,6 @@
 # All Restaurants in Ontario, California, US
 
-> Free BeamStation sample export with 37 rows and masked direct-contact fields.
+> Free BeamStation sample export with 34 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `927809` |
 | Location | Ontario |
 | Category | Restaurants |
-| Full dataset size | 372 records |
-| Free sample size | 37 records (9.95%) |
-| Last export | 2026-04-14T14:44:14.922006+00:00 |
+| Full dataset size | 340 records |
+| Free sample size | 34 records (10.0%) |
+| Last export | 2026-04-21T15:58:35.898962+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-ontario-california-us-sample-927809/releases/download/sample-latest/beamstation_927809_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
