@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a6a59451-8dcc-4f66-bd52-6c3acab8c79a",
+  "export_job_id": "f169e247-e780-439d-9dee-e7baf547b73a",
   "id_short": 927809,
-  "published_at": "2026-04-21T19:59:15Z",
+  "published_at": "2026-04-28T19:36:00Z",
   "repo_name": "all-restaurants-in-ontario-california-us-sample-927809",
   "sample_asset_name": "beamstation_927809_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/927809/beamstation_927809_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 34,
-  "sample_sha256": "5afd2e06328c52eb2b39aacc7bc646bf15467a37fa19c7d945f64bb783e7a101",
-  "sample_size_bytes": 123948,
-  "total_records": 340
+  "sample_records": 35,
+  "sample_sha256": "f75b363dbdb96091cba1b6da887e2f60ace83103d813af72f190c10dc7d286eb",
+  "sample_size_bytes": 135807,
+  "total_records": 354
 }
